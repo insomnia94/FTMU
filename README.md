@@ -14,3 +14,6 @@ python ./train_eval.py
 ```
 
 You can also see the original AC training code in AC_train.py
+```bash
+python ./AC_train.py
+```
