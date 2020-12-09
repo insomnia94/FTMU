@@ -7,7 +7,7 @@
 
 You can download the pre-trained model  [here](https://drive.google.com/file/d/1Pz5YVwRllyS6U1gkSI8dupQuRDL-hnGe/view?usp=sharing), the training log file [here](https://drive.google.com/file/d/1i43JKL0VVEjMJXli_bf7v06nzHntg9H8/view?usp=sharing), and the segmentation results [here](https://drive.google.com/file/d/1Pz5YVwRllyS6U1gkSI8dupQuRDL-hnGe/view?usp=sharing).
 
-Please modify the dataset_root in parameter.py for the dataset path. The model will be evaluated after each eopch. The log file is saved in ./log, and the segmentation results are saved in ./best_results.
+Please modify the dataset_root in parameter.py for the dataset path. The model will be evaluated after each epoch. The log file is saved in ./log, and the segmentation results are saved in ./best_results.
 
 ```bash
 python ./train_eval.py
