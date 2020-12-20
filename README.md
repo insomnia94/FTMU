@@ -5,7 +5,7 @@
 * torchvision 0.4.2
 * CUDA 10.1
 
-You can download the pre-trained model  [here](https://drive.google.com/file/d/1Pz5YVwRllyS6U1gkSI8dupQuRDL-hnGe/view?usp=sharing), the training log file [here](https://drive.google.com/file/d/1OircKF2W_NWJqzqFNTEdBY0D-jkysR8R/view?usp=sharing), and the segmentation results [here](https://drive.google.com/drive/folders/1ntoNjjY8zckFWedcJMDkKgemQS3GGQ6d?usp=sharing).
+You can download the pre-trained model  [here](https://drive.google.com/file/d/1Pz5YVwRllyS6U1gkSI8dupQuRDL-hnGe/view?usp=sharing), the training log file [here](https://drive.google.com/file/d/1Kl2CmE4UZ_SWsslO0qe3o6Gpoa89fVa5/view?usp=sharing), and the segmentation results [here](https://drive.google.com/drive/folders/1ntoNjjY8zckFWedcJMDkKgemQS3GGQ6d?usp=sharing).
 
 Please modify the dataset_root in parameter.py for the dataset path. The model is evaluated after each epoch, with the accuracy printed. The log file is saved in ./log, and the segmentation results are saved in ./best_results.
 
